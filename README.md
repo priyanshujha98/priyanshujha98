@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">A passionate full-stack developer who loves building cool stuff on the web.</h3>
+<h3 align="center">A passionate developer who loves building cool stuff on the web.</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
