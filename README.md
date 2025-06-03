@@ -54,7 +54,7 @@
 - 🌱 I’m currently deepening my knowledge in **corporate tax calculations**, while also exploring **advanced system design**, **application security**, and best practices in **secure DevOps pipelines**.  
 - 👯 I’m looking to collaborate on **developer tools, serverless platforms, and tax/fintech innovations**.  
 - 💬 Ask me about **cloud architecture, secure deployments, machine learning in finance, or building tax intelligence into apps**.  
-- 📫 How to reach me: **[your.email@example.com](mailto:priyanshujha98@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/priyanshu-jha-20aa8b146)  
+- 📫 How to reach me: **[priyanshujha98@gmail.com](mailto:priyanshujha98@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/priyanshu-jha-20aa8b146)  
 - ⚡ Fun fact: **I love turning complex tax rules into elegant code that actually makes sense to humans (and compilers).**
 
 ---
