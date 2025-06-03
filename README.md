@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">Full-stack developer & solutions architect with a passion for building, deploying, and securing cutting-edge web applications.</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Cloud+Enthusiast;ML+Practitioner" alt="Typing animation" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
